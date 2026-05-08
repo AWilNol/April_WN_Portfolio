@@ -143,6 +143,7 @@ h3 {
 }
 
 #portfolio-section {
+  display: flex;
   text-align: center;	
   align-items: center;  
   padding: 15px;
