@@ -144,8 +144,9 @@ h3 {
 
 #portfolio-section {  
   text-align: center;	
-  align-items: center;  
+  align-items: flex;  
   padding: 15px;
+  justify-content: start;
 }
 
 #skills-section {
@@ -157,12 +158,6 @@ h3 {
 #contact-section {
   background-color: #C4F7A7;	
   padding: 15px;  
-}
-
-.video-row {
-  display: flex;
-  gap: 15px;
-  justify-content: center;
 }
 
 .logo {
