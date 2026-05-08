@@ -142,7 +142,8 @@ h3 {
   padding: 15px;
 }
 
-#portfolio-section {  
+#portfolio-section { 
+  align-items: flex;
   text-align: center;  
   padding: 15px;  
 }
