@@ -143,8 +143,7 @@ h3 {
 }
 
 #portfolio-section {  
-  text-align: center;	
-  align-items: flex;  
+  text-align: center;  
   padding: 15px;  
 }
 
@@ -160,7 +159,7 @@ h3 {
 }
 
 .video-row {
-  display: flex;
+  align-items: flex;
   flex-direction: row;
   flex-wrap: wrap;
   gap: 15px;
