@@ -142,13 +142,17 @@ h3 {
   padding: 15px;
 }
 
-#portfolio-section {
-  display: flex;
+#portfolio-section {  
   text-align: center;	
   align-items: center;  
   padding: 15px;
 }
 
+.video-row {
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+}
 #skills-section {
   background-color: #C4F7A7;  
   text-align: center; 
