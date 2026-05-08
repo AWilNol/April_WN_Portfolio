@@ -21,7 +21,10 @@ ul {
 }
 
 h3 {
-   font-family: Satisfy; 
+  font-family: Satisfy; 
+}
+h4 {
+  font-family: serif;	
 }
 
 p {
@@ -54,6 +57,7 @@ footer {
 
 .hero-text {
   font-family: Satisfy;
+  font-size: ;
   text-align: center;
   position: absolute;
   top: 55%;
