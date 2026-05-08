@@ -136,8 +136,14 @@ h3 {
   font-size: 14px;
   margin-top: 20px;
 }
+
 #creativenceltic-section {
   text-align: center;
+  padding: 15px;
+}
+
+#portfolio-section {
+  align-items: center;  
   padding: 15px;
 }
 
