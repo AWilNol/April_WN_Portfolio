@@ -148,6 +148,14 @@ h3 {
   padding: 15px;  
 }
 
+.video-row {
+  align-items: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: start;
+}
+
 #skills-section {
   background-color: #C4F7A7;  
   text-align: center; 
@@ -157,14 +165,6 @@ h3 {
 #contact-section {
   background-color: #C4F7A7;	
   padding: 15px;  
-}
-
-.video-row {
-  align-items: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  gap: 15px;
-  justify-content: start;
 }
 
 .logo {
