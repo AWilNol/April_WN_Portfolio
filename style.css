@@ -138,12 +138,13 @@ h3 {
 }
 #creativenceltic-section {
   text-align: center;
+  padding: 15px;
 }
 
 #skills-section {
   background-color: #C4F7A7;  
   text-align: center; 
-  padding: 20px;
+  padding: 15px;
 }
   
 #contact-section {
