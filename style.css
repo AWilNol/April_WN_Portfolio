@@ -129,10 +129,18 @@ footer {
   padding: 15px;  
 }
 
-.video-row {
+.video-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 15px;  
+}
+
+.video-grid video {
   align-items: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  width: 360;
+  height: 215;
   gap: 15px;
 }
 
