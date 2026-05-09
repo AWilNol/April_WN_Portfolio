@@ -21,7 +21,8 @@ ul {
 }
 
 h3 {
-   font-family: Satisfy; 
+   font-family: Satisfy;
+   text-align: center;  
 }
 
 p {
@@ -89,10 +90,6 @@ footer {
 
 .btn btn-primary {
   background-color: mediumvioletred;
-}
-
-h3 {
- text-align: center;
 }
 
 #mission-section {
