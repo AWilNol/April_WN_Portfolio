@@ -131,17 +131,16 @@ footer {
 
 .video-grid {
   display: grid;
+  align-items: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
   grid-template-columns: repeat(3, 1fr);
   gap: 15px;  
 }
 
-.video-grid video {
-  align-items: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
+.video-grid video {  
   width: 360;
   height: 215;
-  gap: 15px;
 }
 
 #skills-section {
