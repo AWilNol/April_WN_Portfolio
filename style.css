@@ -95,8 +95,7 @@ footer {
 #mission-section {
   background-color: #C4F7A7;
   padding: 20px;
-  text-align: left-side center;
-  align-items: right-side center;
+  align-items: center;
 }
 
 #mission-section img {
