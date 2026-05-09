@@ -102,17 +102,6 @@ footer {
   height: auto;
 }
 
-#mission-target {
-  text-align: center;
-  margin: auto;
-}
-
-#mission-section .row {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
 .img-fluid {
   width: 100%;
   height: 50vh;
