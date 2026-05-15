@@ -91,11 +91,13 @@ footer {
 .btn btn-primary {
   background-color: mediumvioletred;
 }
-
+.mission-container {
+  
+}
 #mission-section {
   background-color: #C4F7A7;
   padding: 20px;
-  align-items: center;
+  align-items: c;
 }
 
 #mission-section img {
